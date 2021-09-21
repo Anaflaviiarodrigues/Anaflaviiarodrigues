@@ -3,7 +3,7 @@
 <h1 align="center">Ana Flávia Rodrigues Pereira </h1> 
 
 
-<h2 align="center">Data Engineer Jr.</h2> 
+<p align="center">Data Engineer Jr.
 
   
   </a> Desenvolvendo habilidades técnicas em: 👩📝️  </a>
