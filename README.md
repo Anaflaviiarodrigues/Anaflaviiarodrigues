@@ -24,5 +24,4 @@
  </a>🟢 Pensamento crítico e analítico </a>
 
 
-Quer saber mais? Acesse meu linkedin 😁
 
