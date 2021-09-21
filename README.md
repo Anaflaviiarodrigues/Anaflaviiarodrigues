@@ -14,6 +14,8 @@
 
  </a>✔️ MySQL </a>
  
+  </a>✔️ Azure </a>
+ 
  
  </a>Habiliadades sociais 👩🧠 </a>
  
