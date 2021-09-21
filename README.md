@@ -19,9 +19,8 @@
  
  </a>Habiliadades sociais 👩🧠 </a>
  
- </a>🔵 Habilidade em gerar conexões com trabalho em equipe </a>
+ </a>🔵 Habilidade em trabalhar em equipe </a>
  
- </a>🟣 Combinatividade = usar as minhas diversas experiências para resolver problemas </a>
  
  </a>🟢 Pensamento crítico e analítico </a>
 
