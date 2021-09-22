@@ -8,7 +8,7 @@
   
   </a> Desenvolvendo habilidades técnicas em: 👩📝️  </a>
  
- </a>✔️ Python (Pandas,Pré-processamento e Tratamento de Dados,Análise Exploratória de Dados, Visualização de Dados) </a>
+ </a>✔️ Python (Pandas,Pré-processamento e Tratamento de Dados,Análise Exploratória de Dados, Visualização de Dados, Machine Learning) </a>
  
  </a>✔️ Power Bi  </a>
 
