@@ -12,9 +12,11 @@
  
  </a>✔️ Power Bi  </a>
 
- </a>✔️ MySQL </a>
+ </a>✔️ SQL </a>
  
-  </a>✔️ Azure </a>
+ </a>✔️ Azure </a>
+ 
+ </a>✔️ Databricks </a>
  
  
  </a>Habiliadades sociais 👩🧠 </a>
